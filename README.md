@@ -1,6 +1,6 @@
 ![logo](https://github.com/shreejana-yonzon/shreejana-yonzon/blob/main/gitHub_banner.png)
 <h1 align="center">Hi 👋, I'm Shreejana Yonzon</h1>
-<h3 align="center">"Passionate React.js Developer 🚀 | Crafting seamless web experiences | Front-end magician ✨ | Open source enthusiast 🌐 | Let's turn code into magic! 💻✨"</h3>
+<h3 align="center">Passionate React.js Developer 🚀 | Crafting seamless web experiences | Front-end magician ✨ | Open source enthusiast 🌐 | Let's turn code into magic! 💻✨</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="shreejana-yonzon" />
 
 - 🔭 Open Learning Exchange Nepal [E-paath](https://epaath.olenepal.org/)
