@@ -19,6 +19,6 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreejana-yonzon&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shreejana-yonzon&theme=dark&hide_border=false&show_icons=true&locale=en" alt="shreejana-yonzon" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shreejana-yonzon&theme=dark&hide_border=false&show_icons=true&locale=en" alt="shreejana-yonzon" /></p> </br>
 
 <p>&nbsp;&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shreejana-yonzon&theme=dark&hide_border=false" alt="shreejana-yonzon" /></p>
